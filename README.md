@@ -26,13 +26,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Chance03-git/NutritionTrackerProject/blob/main/Kapture%202025-05-07%20at%2011.10.00.gif?raw=true' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/Chance03-git/NutritionTrackerProject/blob/main/Kapture%202025-05-07%20at%2000.37.45.gif?raw=true' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 GIF created with **Kap**
 
 ## Notes
 
-Main challenges included integrating Room database with `LiveData` and ensuring RecyclerView updates without manual refresh. Data binding and layout optimizations were key to maintaining clean architecture.
+One UI issue I couldn't resolve was getting the logged food items to appear *below* the section title — they currently render from above the title instead. Aside from that, working with Room, LiveData, and RecyclerView in sync was a rewarding challenge.
 
 ## License
 
